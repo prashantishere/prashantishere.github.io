@@ -1,0 +1,12 @@
+#one{
+    height: 700px;
+    width: 500px;
+    background-color: blue;
+    background-image: url(img.jpg);
+    background-size: cover;
+    color: blue;
+}
+#two {
+    text-align: right;
+    color: rgb(2, 2, 2);
+}
